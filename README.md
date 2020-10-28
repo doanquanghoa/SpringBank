@@ -1,6 +1,3 @@
-# SpringBank
-Ứng dụng demo Internet Bank sử dụng SpringBoot + Angular cho khoá học tại BIDV tháng 11 đến 12/2020.
-
 ## Chạy demo ứng dụng trên môi trường development
 
 ### Backend
@@ -22,3 +19,4 @@ Cài đặt Angular CLI: `npm install -g @angular/cli`
 Start server bằng lệnh: `ng serve`
 
 Website chạy ở địa chỉ: http://localhost:4200
+
